@@ -27,9 +27,6 @@
 - [Luckfox Lyra Plus](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIfoefwG6OIVaBsXJNullh7)
 - [Luckfox Pico Pro/MAX](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKBNxngSduTRWyQ9XKxYcNd)
 - [Luckfox Pico Mini B](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIBwyhv4WN4LDKUhGNPnQ5F)
-- [Luckfox Pico Mini Series](https://www.youtube.com/playlist?list=PLxrSjjYyzaaLjxu6ORNnRfafM9eiNKTRw)
-- [Luckfox ESP32 Series](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJW8KUzet58LCWB8OGR4oyO)
-- [Luckfox Troubleshooting & Tips](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKW6aILpu5ODJ0pHpgfNMwE)
 
 ---
 
