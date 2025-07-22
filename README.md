@@ -19,6 +19,20 @@
 
 ---
 
+### 📺 Luckfox Board Playlists
+
+- [Luckfox 10.1 Inch DSI Display](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKkCSFwW2EPx51K1N1F_dE6)
+- [Luckfox Pico Ultra W](https://www.youtube.com/playlist?list=PLxrSjjYyzaaK-F9B8FRyhgABSoP0v2uVJ)
+- [Luckfox Pico WebBee](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIyLMGM9yzD_BpymMIL3XZD)
+- [Luckfox Lyra Plus](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIfoefwG6OIVaBsXJNullh7)
+- [Luckfox Pico Pro/MAX](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKBNxngSduTRWyQ9XKxYcNd)
+- [Luckfox Pico Mini B](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIBwyhv4WN4LDKUhGNPnQ5F)
+- [Luckfox Pico Mini Series](https://www.youtube.com/playlist?list=PLxrSjjYyzaaLjxu6ORNnRfafM9eiNKTRw)
+- [Luckfox ESP32 Series](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJW8KUzet58LCWB8OGR4oyO)
+- [Luckfox Troubleshooting & Tips](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKW6aILpu5ODJ0pHpgfNMwE)
+
+---
+
 # **Environment Details**
 
 ## **📌 Luckfox Pico Mini B / Pico Pro / Pico Max / Ultra W / WebBee**
