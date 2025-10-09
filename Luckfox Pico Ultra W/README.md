@@ -1,4 +1,4 @@
-# Luckfox Pico Mini B
+# Luckfox Pico Ultra W RV1106
 
 ---
 <p align="center">
