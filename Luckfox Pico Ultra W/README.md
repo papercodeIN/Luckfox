@@ -93,6 +93,25 @@ sudo nmcli --ask dev wifi connect Capgemini_4G
 
 ---
 
+# **📌 Wi-Fi Hotspot Setup Using `nmcli`**
+
+### **1. Create a Wi-Fi Hotspot**
+```bash
+nmcli d wifi hotspot ifname <wifi_interface> ssid <network_name> password <password>
+```
+**Example:**  
+```bash
+nmcli d wifi hotspot ifname wlan0 ssid luckfox_ap password 12345678
+```
+This creates a Wi-Fi hotspot named `luckfox_ap` on interface `wlan0` with the password `12345678`.
+
+### **2. Display the Wi-Fi Hotspot Password**
+```bash
+nmcli dev wifi show-password
+```
+
+---
+
 $\color{Orange}\Huge{\textbf{Luckfox Board Ubuntu Images}}$
 
 
