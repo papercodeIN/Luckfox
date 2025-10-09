@@ -30,12 +30,12 @@
 
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
-1. 🆓[Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on NAND Storage | SSH Access | Full Setup](https://youtu.be/lllIuZqsbZo)
-2. 🆓[Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on SD Card | SSH Access | Full Setup](https://youtu.be/mR2smGCWQgk)
-3. 🆓[Getting Started with Luckfox Lyra Plus | Flash Ubuntu OS on SD Card | SSH Access | Full Setup](https://youtu.be/BRxWabEfgb8)
-4. 🆓[How to Erase eMMC Storage or NAND Storage in Luckfox Lyra Plus](https://youtu.be/cVggO10D5gY)
+1. 🆓Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on NAND Storage | SSH Access | Full Setup [Watch](https://youtu.be/lllIuZqsbZo)
+2. 🆓Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on SD Card | SSH Access | Full Setup [Watch](https://youtu.be/mR2smGCWQgk)
+3. 🆓Getting Started with Luckfox Lyra Plus | Flash Ubuntu OS on SD Card | SSH Access | Full Setup [Watch](https://youtu.be/BRxWabEfgb8)
+4. 🆓How to Erase eMMC Storage or NAND Storage in Luckfox Lyra Plus [Watch](https://youtu.be/cVggO10D5gY)
 5. ⏳️How to Transfer Files and Folders from a Windows Machine to the Luckfox Lyra via SSH
-6. 🆓[How to Control GPIO of Luckfox Lyra Plus with Python using Periphery Library | Buildroot OS](https://youtu.be/fQit2CAV_VU)
+6. 🆓How to Control GPIO of Luckfox Lyra Plus with Python using Periphery Library | Buildroot OS [Watch](https://youtu.be/fQit2CAV_VU)
 7. ⏳️How to Control a Servo Motor Using the Luckfox Lyra with PWM
 
 ---
