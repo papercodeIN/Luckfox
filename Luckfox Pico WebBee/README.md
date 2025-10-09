@@ -1,4 +1,4 @@
-# Luckfox Pico Mini B
+# Luckfox Pico WebBee RV1103
 
 - [Wiki](https://wiki.luckfox.com/Luckfox-Pico/Luckfox-Pico-RV1103/Luckfox-Pico-WebBee/Getting-Started-Tutorial)
 - [Product](https://www.luckfox.com/Luckfox-WebBee)
