@@ -35,7 +35,7 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 ---
 
-## **📌 Luckfox Pico Mini B / Pico Pro / Pico Max / Ultra W / WebBee**
+## **📌 Luckfox Pico Mini B**
 
 ### **Ubuntu Machine**
 - **Login:** pico  
