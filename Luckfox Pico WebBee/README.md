@@ -2,7 +2,7 @@
 
 - [Wiki](https://wiki.luckfox.com/Luckfox-Pico/Luckfox-Pico-RV1103/Luckfox-Pico-WebBee/Getting-Started-Tutorial)
 - [Product](https://www.luckfox.com/Luckfox-WebBee)
-- [Buildroot (downloads)]()
+- [Buildroot (downloads)]
 
 
 Video tutorials
