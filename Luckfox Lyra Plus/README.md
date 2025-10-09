@@ -1,13 +1,13 @@
 # Luckfox Lyra Plus
 
-Official resources
-
 - [Wiki](https://wiki.luckfox.com/Luckfox-Lyra/Luckfox-Lyra-Plus)
 - [Product](https://www.luckfox.com/Luckfox-Lyra-Plus)
 - [Buildroot (downloads)](https://drive.google.com/drive/folders/1CILs2BYpkKViCqNs1e6zaKaezHE62P4z)
-- [RKDevTool](https://files.luckfox.com/wiki/Omni3576/TOOLS/RKDevTool_Release_v3.31.zip)
-- [DriverAssistant](https://files.luckfox.com/wiki/Omni3576/TOOLS/DriverAssitant_v5.13.zip)
-- [SDDiskTool](https://files.luckfox.com/wiki/Omni3576/TOOLS/SDDiskTool_v1.78.zip)
+- <a href="https://files.luckfox.com/wiki/Omni3576/TOOLS/RKDevTool_Release_v3.31.zip" target="_blank" rel="noopener" download>RKDevTool</a>
+- <a href="https://files.luckfox.com/wiki/Omni3576/TOOLS/DriverAssitant_v5.13.zip" target="_blank" rel="noopener" download>DriverAssistant</a>
+- <a href="https://files.luckfox.com/wiki/Omni3576/TOOLS/SDDiskTool_v1.78.zip" target="_blank" rel="noopener" download>SDDiskTool</a>
+
+> Note: The `download` attribute suggests the browser download the resource instead of navigating to it, and `target="_blank"` opens a new tab. Some servers (or cross-origin responses) may override this and open the file URL instead of forcing a download. If the file opens in the browser, right-click the link and choose "Save link as..." or use a download manager.
 
 Video tutorials
 
