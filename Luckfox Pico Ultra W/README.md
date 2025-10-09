@@ -39,9 +39,9 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 9. 🆓How to Install python-periphery library on Luckfox Pico Ultra W for GPIO Control [[Watch]](https://youtu.be/2EgyVn7HRHs)
 10. 🆓How to Control GPIO of Luckfox Pico Ultra W RV1106 Linux Micro Development Board [[Watch]](https://youtu.be/FD0zrO5E_pA)
 11. 🆓Luckfox Pico Ultra W Integration with RGB Screen | LF40-720720-ARK | LVGL Demo | Buildroot | [[Watch]](https://youtu.be/qsJkHgHwTq4)
-12. ⏳️How to Read Modbus Data to Luckfox Pico Ultra W RV1106 Linux Micro Development Board [Watch]
-13. ⏳️Setting up Luckfox SC3336 3MP Camera with the Luckfox Pico Ultra W RV1106 Linux Micro Development Board [Watch]
-14. ⏳️How to take eMMC Storage Backup of Luckfox Pico Ultra W RV1106 Linux Micro Development Board [Watch]
+12. ⏳️How to Read Modbus Data to Luckfox Pico Ultra W RV1106 Linux Micro Development Board
+13. ⏳️Setting up Luckfox SC3336 3MP Camera with the Luckfox Pico Ultra W RV1106 Linux Micro Development Board
+14. ⏳️How to take eMMC Storage Backup of Luckfox Pico Ultra W RV1106 Linux Micro Development Board
        
         ```bash
         ssh pico@172.32.0.70
