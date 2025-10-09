@@ -42,8 +42,7 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 12. ⏳️How to Read Modbus Data to Luckfox Pico Ultra W RV1106 Linux Micro Development Board [Watch]
 13. ⏳️Setting up Luckfox SC3336 3MP Camera with the Luckfox Pico Ultra W RV1106 Linux Micro Development Board [Watch]
 14. ⏳️How to take eMMC Storage Backup of Luckfox Pico Ultra W RV1106 Linux Micro Development Board [Watch]
-    - Code
-        
+       
         ```bash
         ssh pico@172.32.0.70
         sudo visudo
