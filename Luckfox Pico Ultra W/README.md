@@ -75,6 +75,24 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 ---
 
+# **📌 Wi-Fi Setup on Ubuntu (Luckfox Pico Ultra W)**
+
+### **List Available Wi-Fi Networks**
+```bash
+nmcli dev wifi list
+```
+
+### **Connect to a Wi-Fi Network**
+```bash
+sudo nmcli --ask dev wifi connect <network-ssid>
+```
+**Example:**  
+```bash
+sudo nmcli --ask dev wifi connect Capgemini_4G
+```
+
+---
+
 $\color{Orange}\Huge{\textbf{Luckfox Board Ubuntu Images}}$
 
 
