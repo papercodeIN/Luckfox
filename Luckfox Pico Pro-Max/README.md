@@ -4,8 +4,9 @@
 - [Product]()
 - [Buildroot (downloads)]()
 
+---
 
-Video tutorials
+$\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓Getting Started with Luckfox Pico Pro/Max | Flash Ubuntu OS to SD Card | Full Setup | SSH Access | [[Watch]](https://youtu.be/VXDWQnTRNRE)
 2. 🆓Getting Started with Luckfox Pico Pro/Max | Flash Buildroot OS onto an SD Card | Full Setup | SSH Access | [[Watch]](https://youtu.be/xmqn82syFAs)
@@ -18,3 +19,4 @@ Video tutorials
 9. 🆓How to Control GPIO of Luckfox Pico Pro/Max RV1106 Linux Micro Development Board using Python [[Watch]](https://youtu.be/BU5byjWqFwg) [[GitHub]](https://github.com/papercodeIN/Embedded_Devices/tree/main/LuckFox)
 10. 🆓How to Install Node-RED on Luckfox Pico Pro/Max RV1106 Linux Micro Development Board [[Watch]](https://youtu.be/Sydx9JD5TW0) [[GitHub]](https://github.com/papercodeIN/Embedded_Devices/tree/main/LuckFox)
 
+---

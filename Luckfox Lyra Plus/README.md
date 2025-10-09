@@ -7,7 +7,9 @@
 - [DriverAssistant](https://files.luckfox.com/wiki/Omni3576/TOOLS/DriverAssitant_v5.13.zip)
 - [SDDiskTool](https://files.luckfox.com/wiki/Omni3576/TOOLS/SDDiskTool_v1.78.zip)
 
-Video tutorials
+---
+
+$\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓[Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on NAND Storage | SSH Access | Full Setup](https://youtu.be/lllIuZqsbZo)
 2. 🆓[Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on SD Card | SSH Access | Full Setup](https://youtu.be/mR2smGCWQgk)
@@ -17,3 +19,4 @@ Video tutorials
 6. 🆓[How to Control GPIO of Luckfox Lyra Plus with Python using Periphery Library | Buildroot OS](https://youtu.be/fQit2CAV_VU)
 7. ⏳️How to Control a Servo Motor Using the Luckfox Lyra with PWM
 
+---
