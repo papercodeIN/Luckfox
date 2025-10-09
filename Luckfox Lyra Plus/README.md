@@ -40,6 +40,28 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 ---
 
+## **📌 Luckfox Lyra**
+
+### **Buildroot OS**
+- **Username:** root  
+- **Password:** luckfox  
+- **USB Static IP Address:** 192.168.123.100  
+- **SSH Login:**  
+    ```bash
+    ssh root@192.168.123.100
+    ```
+
+### **Ubuntu OS**
+- **Username:** lyra  
+- **Password:** luckfox  
+- **USB Static IP Address:** 192.168.123.100  
+- **SSH Login:**  
+    ```bash
+    ssh lyra@192.168.123.100
+    ```
+---
+
+
 $\color{Orange}\Huge{\textbf{Luckfox Board Ubuntu Images}}$
 
 
