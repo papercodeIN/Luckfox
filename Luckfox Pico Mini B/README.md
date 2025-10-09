@@ -35,6 +35,28 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 ---
 
+## **📌 Luckfox Pico Mini B / Pico Pro / Pico Max / Ultra W / WebBee**
+
+### **Ubuntu Machine**
+- **Login:** pico  
+- **Password:** luckfox  
+- **Static IP:** 172.32.0.70  
+- **SSH Login:**  
+    ```bash
+    ssh pico@172.32.0.70
+    ```
+
+### **Buildroot Machine**
+- **Login:** root  
+- **Password:** luckfox  
+- **Static IP:** 172.32.0.93  
+- **SSH Login:**  
+    ```bash
+    ssh root@172.32.0.93
+    ```
+
+---
+
 $\color{Orange}\Huge{\textbf{Luckfox Board Ubuntu Images}}$
 
 
