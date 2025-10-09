@@ -54,57 +54,46 @@ uname -a
 
 ---
 
-# **📌 Install Mosquitto MQTT Broker on Luckfox Pico Ultra W**
+# **📌 Install Mosquitto MQTT Broker (Luckfox Pico Ultra W)**
 
-## **1️⃣ Download & Run the Script**  
-Run the following commands:  
+Quick steps to install, manage and test Mosquitto on Ubuntu-based Luckfox images.
 
-```bash
-wget --no-check-certificate https://raw.githubusercontent.com/papercodeIN/Embedded_Devices/refs/heads/main/LuckFox/Script/install_mosquitto.sh
-```
+1) Download & run installer
 
 ```bash
+wget -qO install_mosquitto.sh \
+  https://raw.githubusercontent.com/papercodeIN/Embedded_Devices/main/LuckFox/Script/install_mosquitto.sh
 chmod +x install_mosquitto.sh
+sudo ./install_mosquitto.sh
 ```
+
+2) Check status
 
 ```bash
-./install_mosquitto.sh
+sudo systemctl status mosquitto --no-pager
 ```
 
-## **2️⃣ Check Mosquitto Status**  
+3) Start / Stop / Restart
+
 ```bash
-systemctl status mosquitto
+sudo systemctl start|stop|restart mosquitto
 ```
 
-## **3️⃣ Start/Stop/Restart Mosquitto**  
-- **Start:**
+4) Quick local test
+
+Open a subscriber terminal:
+
 ```bash
-sudo systemctl start mosquitto
+mosquitto_sub -h localhost -t test/topic
 ```
 
-- **Stop:**
+Publish a message from another shell:
+
 ```bash
-sudo systemctl stop mosquitto
+mosquitto_pub -h localhost -t test/topic -m "Hello, MQTT!"
 ```
 
-- **Restart:**  
-```bash
-sudo systemctl restart mosquitto
-```
-
-## **4️⃣ Test Mosquitto**  
-- **Subscribe:**  
-  ```bash
-  mosquitto_sub -h localhost -t test/topic
-  ```
-- **Publish:**  
-  ```bash
-  mosquitto_pub -h localhost -t test/topic -m "Hello, MQTT!"
-  ```
-
-If working, you'll see **"Hello, MQTT!"** in the subscriber terminal. ✅  
-
-🎉 **Done! Mosquitto is installed and running!** 🚀
+You should see the message appear in the subscriber terminal.
 
 ---
 
