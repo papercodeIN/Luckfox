@@ -22,37 +22,12 @@
 
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
-1. 🆓Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on NAND Storage | SSH Access | Full Setup [Watch](https://youtu.be/lllIuZqsbZo)
-2. 🆓Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on SD Card | SSH Access | Full Setup [Watch](https://youtu.be/mR2smGCWQgk)
-3. 🆓Getting Started with Luckfox Lyra Plus | Flash Ubuntu OS on SD Card | SSH Access | Full Setup [Watch](https://youtu.be/BRxWabEfgb8)
-4. 🆓How to Erase eMMC Storage or NAND Storage in Luckfox Lyra Plus [Watch](https://youtu.be/cVggO10D5gY)
-5. ⏳️How to Transfer Files and Folders from a Windows Machine to the Luckfox Lyra via SSH
-6. 🆓How to Control GPIO of Luckfox Lyra Plus with Python using Periphery Library | Buildroot OS [Watch](https://youtu.be/fQit2CAV_VU)
-7. ⏳️How to Control a Servo Motor Using the Luckfox Lyra with PWM
+1. 🆓️Unboxing Luckfox 10.1inch DSI Capacitive Touch Display | Raspberry Pi 5 | Luckfox Lyra | [[Watch]](https://youtube.com/shorts/hx5hMKuYUb8)
+2. 🆓️Introduction to Luckfox 10.1inch DSI Capacitive Touch Display | 800×1280 | IPS Panel | [[Watch]](https://youtu.be/eOd8tRj9zsU)
+3. 🆓️Integrating Luckfox 10.1 inch DSI Capacitive Touch Display with Raspberry Pi 3B | [[Watch]](https://youtube.com/shorts/HbXTNyAueDA?feature=share)
+4. ⏳️Integrating Luckfox 10.1 inch DSI Capacitive Touch Display with Raspberry Pi Compute Module 4 | [Watch]
 
 ---
-
-## **📌 Luckfox Lyra**
-
-### **Buildroot OS**
-- **Username:** root  
-- **Password:** luckfox  
-- **USB Static IP Address:** 192.168.123.100  
-- **SSH Login:**  
-    ```bash
-    ssh root@192.168.123.100
-    ```
-
-### **Ubuntu OS**
-- **Username:** lyra  
-- **Password:** luckfox  
-- **USB Static IP Address:** 192.168.123.100  
-- **SSH Login:**  
-    ```bash
-    ssh lyra@192.168.123.100
-    ```
----
-
 
 $\color{Orange}\Huge{\textbf{Luckfox Board Ubuntu Images}}$
 
