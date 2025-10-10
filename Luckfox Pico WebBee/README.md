@@ -26,6 +26,11 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. 🆓Unboxing Luckfox Modules | Luckfox Pico WebBee | Luckfox Lyra Plus | Micro Linux Development Board | [**[Watch]**](https://youtube.com/shorts/wPT8SiycMX8)
+2. 🆓Unboxing Luckfox Pico WebBee | RV1103 | Linux Micro Development Board | IIoT | Linux | SBC | [**[Watch]**](https://youtube.com/shorts/oEHAmuZPXc0)
+
+
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓Getting Started with Luckfox Pico WebBee | Flash Ubuntu OS onto an SD Card | Full Setup | SSH Access | [**[Watch]**](https://youtu.be/VjUEhpwcpYM)

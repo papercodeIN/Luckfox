@@ -25,6 +25,9 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. 🆓Luckfox Pico Pro/Max RV1106 Linux Micro Development Board | IoT | Luckfox | IIoT | Linux | SBC | [[Watch]](https://youtu.be/LewVPd6Nh30)
+
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓Getting Started with Luckfox Pico Pro/Max | Flash Ubuntu OS to SD Card | Full Setup | SSH Access | [[Watch]](https://youtu.be/VXDWQnTRNRE)
@@ -40,22 +43,22 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 ---
 
-## **📌 Luckfox Pico Pro/Max**
+## 📌 Luckfox Pico Pro/Max
 
-### **Ubuntu Machine**
-- **Login:** pico  
-- **Password:** luckfox  
-- **Static IP:** 172.32.0.70  
-- **SSH Login:**  
+### Ubuntu Machine
+- Login: pico  
+- Password: luckfox  
+- Static IP: 172.32.0.70  
+- SSH Login:  
     ```bash
     ssh pico@172.32.0.70
     ```
 
-### **Buildroot Machine**
-- **Login:** root  
-- **Password:** luckfox  
-- **Static IP:** 172.32.0.93  
-- **SSH Login:**  
+### Buildroot Machine
+- Login: root  
+- Password: luckfox  
+- Static IP: 172.32.0.93  
+- SSH Login:  
     ```bash
     ssh root@172.32.0.93
     ```

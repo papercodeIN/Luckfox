@@ -28,6 +28,9 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. 🆓Unboxing Luckfox Lyra Plus | RK3506G2 | Linux Micro Development Board | IIoT | Linux | SBC | [**[Watch]**](https://youtube.com/shorts/J0ia8kxdH7c)
+
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on NAND Storage | SSH Access | Full Setup [Watch](https://youtu.be/lllIuZqsbZo)
