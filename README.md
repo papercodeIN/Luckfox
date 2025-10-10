@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.Luckfox" height="20" />
 
-# Luckfox
+<h1 align = "center">🌟Luckfox🌟</h1>
 
 ---
 <p align="center">

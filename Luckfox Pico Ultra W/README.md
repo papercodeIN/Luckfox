@@ -1,4 +1,4 @@
-# Luckfox Pico Ultra W RV1106
+<h1 align = "center">🌟Luckfox Pico Ultra W RV1106🌟</h1>
 
 ---
 <p align="center">
