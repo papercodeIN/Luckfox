@@ -308,3 +308,14 @@ $\color{Orange}\Huge{\textbf{Luckfox Board Ubuntu Images}}$
 </table>
 
 ---
+
+## Subscriber requests (short list)
+
+1. Run a Python program at startup — quick methods (systemd or rc.local) for Luckfox boards.
+2. Create Wi‑Fi hotspot on Luckfox Pico Ultra W (Ubuntu) — video: [Watch](https://youtu.be/x_YEgMfgzNg).
+3. Create Wi‑Fi hotspot on Luckfox Pico Ultra W (Buildroot) — short guide for Buildroot-specific steps.
+4. WS2812B (addressable LED) control — wiring, Python examples and libraries.
+5. TensorFlow on Luckfox — feasibility and a minimal example for supported boards.
+6. I2C on Luckfox — bus usage, device probing and example code.
+
+---
