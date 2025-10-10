@@ -20,15 +20,6 @@
 
 ---
 
-- [Wiki](https://wiki.luckfox.com/Luckfox-Lyra/Luckfox-Lyra-Plus)
-- [Product](https://www.luckfox.com/Luckfox-Lyra-Plus)
-- [Buildroot (downloads)](https://drive.google.com/drive/folders/1CILs2BYpkKViCqNs1e6zaKaezHE62P4z)
-- [RKDevTool](https://files.luckfox.com/wiki/Omni3576/TOOLS/RKDevTool_Release_v3.31.zip)
-- [DriverAssistant](https://files.luckfox.com/wiki/Omni3576/TOOLS/DriverAssitant_v5.13.zip)
-- [SDDiskTool](https://files.luckfox.com/wiki/Omni3576/TOOLS/SDDiskTool_v1.78.zip)
-
----
-
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓Getting Started with Luckfox Lyra Plus | Flash Buildroot OS on NAND Storage | SSH Access | Full Setup [Watch](https://youtu.be/lllIuZqsbZo)
