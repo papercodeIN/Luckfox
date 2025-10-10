@@ -23,12 +23,12 @@
 
 ### 📺 Luckfox Board Playlists
 
-- [Luckfox 10.1 Inch DSI Display](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKkCSFwW2EPx51K1N1F_dE6)
-- [Luckfox Pico Ultra W](https://www.youtube.com/playlist?list=PLxrSjjYyzaaK-F9B8FRyhgABSoP0v2uVJ)
-- [Luckfox Pico WebBee](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIyLMGM9yzD_BpymMIL3XZD)
-- [Luckfox Lyra Plus](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIfoefwG6OIVaBsXJNullh7)
-- [Luckfox Pico Pro/MAX](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKBNxngSduTRWyQ9XKxYcNd)
-- [Luckfox Pico Mini B](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIBwyhv4WN4LDKUhGNPnQ5F)
+- 📺 [Luckfox 10.1 Inch DSI Display](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKkCSFwW2EPx51K1N1F_dE6)
+- 📺 [Luckfox Pico Ultra W](https://www.youtube.com/playlist?list=PLxrSjjYyzaaK-F9B8FRyhgABSoP0v2uVJ)
+- 📺 [Luckfox Pico WebBee](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIyLMGM9yzD_BpymMIL3XZD)
+- 📺 [Luckfox Lyra Plus](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIfoefwG6OIVaBsXJNullh7)
+- 📺 [Luckfox Pico Pro/MAX](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKBNxngSduTRWyQ9XKxYcNd)
+- 📺 [Luckfox Pico Mini B](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIBwyhv4WN4LDKUhGNPnQ5F)
 
 ---
 
@@ -54,46 +54,57 @@ uname -a
 
 ---
 
-# **📌 Install Mosquitto MQTT Broker (Luckfox Pico Ultra W)**
+# **📌 Install Mosquitto MQTT Broker on Luckfox Pico Ultra W**
 
-Quick steps to install, manage and test Mosquitto on Ubuntu-based Luckfox images.
-
-1) Download & run installer
+## **1️⃣ Download & Run the Script**  
+Run the following commands:  
 
 ```bash
-wget -qO install_mosquitto.sh \
-  https://raw.githubusercontent.com/papercodeIN/Embedded_Devices/main/LuckFox/Script/install_mosquitto.sh
+wget --no-check-certificate https://raw.githubusercontent.com/papercodeIN/Embedded_Devices/refs/heads/main/LuckFox/Script/install_mosquitto.sh
+```
+
+```bash
 chmod +x install_mosquitto.sh
-sudo ./install_mosquitto.sh
 ```
-
-2) Check status
 
 ```bash
-sudo systemctl status mosquitto --no-pager
+./install_mosquitto.sh
 ```
 
-3) Start / Stop / Restart
-
+## **2️⃣ Check Mosquitto Status**  
 ```bash
-sudo systemctl start|stop|restart mosquitto
+systemctl status mosquitto
 ```
 
-4) Quick local test
-
-Open a subscriber terminal:
-
+## **3️⃣ Start/Stop/Restart Mosquitto**  
+- **Start:**
 ```bash
-mosquitto_sub -h localhost -t test/topic
+sudo systemctl start mosquitto
 ```
 
-Publish a message from another shell:
-
+- **Stop:**
 ```bash
-mosquitto_pub -h localhost -t test/topic -m "Hello, MQTT!"
+sudo systemctl stop mosquitto
 ```
 
-You should see the message appear in the subscriber terminal.
+- **Restart:**  
+```bash
+sudo systemctl restart mosquitto
+```
+
+## **4️⃣ Test Mosquitto**  
+- **Subscribe:**  
+  ```bash
+  mosquitto_sub -h localhost -t test/topic
+  ```
+- **Publish:**  
+  ```bash
+  mosquitto_pub -h localhost -t test/topic -m "Hello, MQTT!"
+  ```
+
+If working, you'll see **"Hello, MQTT!"** in the subscriber terminal. ✅  
+
+🎉 **Done! Mosquitto is installed and running!** 🚀
 
 ---
 
