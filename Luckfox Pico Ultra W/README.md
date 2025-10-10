@@ -26,6 +26,12 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. 🆓Unboxing Luckfox Modules | Pico MAX | Pico Ultra W | Touch Screen | Camera | Luckfox | Linux SBC | [**[Watch]**](https://youtube.com/shorts/oFLMfBsOTts?feature=share)
+2. 🆓Luckfox Pico Ultra W Running LVGL Demo Example | RV1106 | Buildroot OS | LF40-720720-ARK | [[Watch]](https://youtube.com/shorts/mHTlpOw12xs)
+3. 🆓Luckfox Pico Ultra W Speaker Integration and Playing Music using LVGL Music Player | RV1106 | [[Watch]](https://youtube.com/shorts/XBzanVx5Kzw?feature=share)
+4. 🆓Luckfox Pico Ultra W POE Kit | RV1106 Linux Micro Development Board | IoT | IIoT | [**[Watch]**](https://youtube.com/shorts/VfAO32pegIs?feature=share)
+
 $\color{Green}\Huge{\textbf{Video tutorials}}$
 
 1. 🆓Getting Started with Luckfox Pico Ultra W | Flashing Ubuntu OS to eMMC Storage | SSH Access | Full Setup | [[Watch]](https://youtu.be/Y2oN5frC1FQ)
@@ -53,59 +59,59 @@ $\color{Green}\Huge{\textbf{Video tutorials}}$
         
 ---
 
-## **📌 Luckfox Pico Ultra W**
+## 📌 Luckfox Pico Ultra W
 
-### **Ubuntu Machine**
-- **Login:** pico  
-- **Password:** luckfox  
-- **Static IP:** 172.32.0.70  
-- **SSH Login:**  
+### Ubuntu Machine
+- Login: pico  
+- Password: luckfox  
+- Static IP: 172.32.0.70  
+- SSH Login:  
     ```bash
     ssh pico@172.32.0.70
     ```
 
-### **Buildroot Machine**
-- **Login:** root  
-- **Password:** luckfox  
-- **Static IP:** 172.32.0.93  
-- **SSH Login:**  
+### Buildroot Machine
+- Login: root  
+- Password: luckfox  
+- Static IP: 172.32.0.93  
+- SSH Login:  
     ```bash
     ssh root@172.32.0.93
     ```
 
 ---
 
-# **📌 Wi-Fi Setup on Ubuntu (Luckfox Pico Ultra W)**
+# 📌 Wi-Fi Setup on Ubuntu (Luckfox Pico Ultra W)
 
-### **List Available Wi-Fi Networks**
+### List Available Wi-Fi Networks
 ```bash
 nmcli dev wifi list
 ```
 
-### **Connect to a Wi-Fi Network**
+### Connect to a Wi-Fi Network
 ```bash
 sudo nmcli --ask dev wifi connect <network-ssid>
 ```
-**Example:**  
+Example:  
 ```bash
 sudo nmcli --ask dev wifi connect Capgemini_4G
 ```
 
 ---
 
-# **📌 Wi-Fi Hotspot Setup Using `nmcli`  (Luckfox Pico Ultra W)**
+# 📌 Wi-Fi Hotspot Setup Using `nmcli`  (Luckfox Pico Ultra W)
 
-### **1. Create a Wi-Fi Hotspot**
+### 1. Create a Wi-Fi Hotspot
 ```bash
 nmcli d wifi hotspot ifname <wifi_interface> ssid <network_name> password <password>
 ```
-**Example:**  
+Example:  
 ```bash
 nmcli d wifi hotspot ifname wlan0 ssid luckfox_ap password 12345678
 ```
 This creates a Wi-Fi hotspot named `luckfox_ap` on interface `wlan0` with the password `12345678`.
 
-### **2. Display the Wi-Fi Hotspot Password**
+### 2. Display the Wi-Fi Hotspot Password
 ```bash
 nmcli dev wifi show-password
 ```
